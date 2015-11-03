@@ -1,6 +1,6 @@
 #Prose.io Task Analysis
 
-1. **What is the goal?**
+1. **What is the student goal?**
     * Publish a markdown file to the shared class GitHub repository
 2. **What tasks does the user need to perform to accomplish the goal?**
     * Go to prose.io
