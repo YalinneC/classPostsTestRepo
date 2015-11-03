@@ -25,9 +25,9 @@
     * **alternative path:** [juliet]
     * **exception path:** [juliet]
 7. **What does the user need to know about the task?**
-    * **duration:** [zoe]
-    * **complexity:** [zoe]
-    * **frequency:** [zoe]
+    * **duration:** [zoey]
+    * **complexity:** [zoey]
+    * **frequency:** [zoey]
 8. **What is the sequence of tasks?**
     * [zoe]
 9. **What is the expected result?**
