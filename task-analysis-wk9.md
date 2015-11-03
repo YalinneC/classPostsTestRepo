@@ -29,6 +29,6 @@
     * **complexity:** [zoey]
     * **frequency:** [zoey]
 8. **What is the sequence of tasks?**
-    * [zoe]
+    * [zoey]
 9. **What is the expected result?**
-    * [zoe]
+    * [zoey]
