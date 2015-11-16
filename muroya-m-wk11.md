@@ -100,7 +100,7 @@ Again, the hard part with this technology is not the tool itself; a quick google
     h1 {
         font-size: 2em;
     }
-    @media (min-width: 40em;) {
+    @media (min-width: 40em) {
         h1 {
             font-size: 4em;
         }
